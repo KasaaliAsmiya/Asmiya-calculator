@@ -1,8 +1,8 @@
-🧮 Simple GUI Calculator
+🧮 Simple Calculator
 A modern, responsive web-based calculator built using HTML, CSS, and JavaScript. This project is designed to handle basic mathematical operations with a sleek, user-friendly interface.
 
 ✨ Features
-User Interface: A dark-themed modern design featuring a vibrant neon glow effect.
+User Interface: A pink themed modern design featuring a vibrant light pink glow effect.
 
 Operations: Supports Addition, Subtraction, Multiplication, and Division.
 
@@ -37,5 +37,4 @@ clearDisplay(): Resets the display screen to empty when the 'C' button is presse
 
 calculate(): Uses JavaScript’s built-in eval() function to parse the string expression into a mathematical result and update the display.
 
-📸 Preview
-Link: https://guical.netlify.app
+GitHub: https://github.com/KasaaliAsmiya/Asmiya-calculator
