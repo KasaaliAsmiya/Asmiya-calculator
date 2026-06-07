@@ -44,3 +44,4 @@ Screenshots:
 <img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/5c1cb8cf-b6b4-41e7-a111-a3cff12436c2" />
 
 GitHub: https://github.com/KasaaliAsmiya/Asmiya-calculator
+Hosted link: https://kasaaliasmiya.github.io/Asmiya-calculator/
