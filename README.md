@@ -1,8 +1,8 @@
-🧮 Simple Asmiya Calculator
+🧮 Asmiya Calculator
 
 A modern, responsive web-based calculator built using HTML, CSS, and JavaScript. This project is designed to handle basic mathematical operations with a sleek, user-friendly interface.
 
-✨ Features
+Features
 User Interface: A pink themed modern design featuring a vibrant light pink glow effect.
 
 Operations: Supports Addition, Subtraction, Multiplication, and Division.
